@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://buffyg-szalma.github.io/Collection-Lab
+url:
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: '/'
+baseurl:
 # location of code, the full url to your github repository
 source-code: https://github.com/buffyg-szalma/Collection-Lab
 
