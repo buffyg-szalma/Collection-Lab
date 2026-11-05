@@ -23,9 +23,10 @@ title: Lab 5 Collection Builder
 tagline: Library of Congress Fall Collection Sample
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: ""
+description: "Small collection of Library of Congress images"
+
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: 
+keywords: libraries
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: buffyg-szalma
 
