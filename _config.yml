@@ -18,7 +18,7 @@ source-code: https://github.com/buffyg-szalma/Collection-Lab
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Collection Builder
+title: Fall Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Library of Congress Fall Collection Sample
 # description appears in meta tags and other locations
@@ -51,11 +51,11 @@ metadata: metadata
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "University of Michigan School of Information"
+organization-link: https://si.umich.edu
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+# organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
+# organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
 
 ##########
 # ROBOTS EXCLUDE
